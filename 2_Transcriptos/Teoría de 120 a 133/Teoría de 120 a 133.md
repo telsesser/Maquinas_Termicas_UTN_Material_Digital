@@ -94,7 +94,7 @@ Las fuerzas que hacen girar el cigüeñal dependen de la presión de los gases y
 
 La velocidad del motor depende por tanto del valor de la carga y de la posición de la palanca que regula la cantidad de combustible. La regulación de la carga y de la velocidad es una cuestión de equilibrio entre las fuerzas que provocan la rotación del cigüeñal y las fuerzas opuestas que tienden a impedirla. Establecido un régimen de rotación, si varía la carga se crea un desequilibrio entre las fuerzas en oposición y debe variarse la posición de la palanca de regulación del combustible para que se restablezca el equilibrio.
 
-![](_page_5_Figure_2.png){width=50%}
+![](_page_5_Figure_2.png){width=80%}
 
 En un motor de encendido por chispa (ECh) si la válvula de mariposa del carburador está cerrada, o casi, y no hay carga, el par motriz sirve sólo para equilibrar las resistencias internas del motor, y el motor gira al mínimo. Esta condición está ilustrada en la figura 2a. Si, siempre sin carga, la válvula de mariposa se abre completamente, la velocidad de rotación puede alcanzar un valor tan elevado que algunos órganos del motor pueden destruirse. Si, con la válvula toda abierta, se aplica al eje motor una carga constante de tal magnitud que el motor funciona a la máxima velocidad prevista en el proyecto, equilibrándose el par motriz con el resistente, la velocidad del motor permanece constante. Esta condición está ilustrada en la figura 2b.
 
@@ -108,7 +108,7 @@ Lo anterior es válido para todos los motores, tanto ECh como EC. La diferencia 
 
 # 4. Potencia absorbida por las resistencias pasivas y rendimiento mecánico
 
-Ésta es potencia perdida y es la diferencia entre la potencia indicada y la potencia efectiva:
+Esta es potencia perdida y es la diferencia entre la potencia indicada y la potencia efectiva:
 
 $$P_p = P_i - P_e.$$
 
@@ -120,7 +120,7 @@ Más práctico y conveniente resulta el procedimiento siguiente: se mide la pote
 
 Este procedimiento da lugar a algunos errores, pero los errores en un sentido quedan compensados por los errores en sentido opuesto. Este procedimiento es usado normalmente en la industria.
 
-Conociendo la potencia indicada y la efectiva se puede obtener el **rendi**miento mecánico u orgánico del motor:
+Conociendo la potencia indicada y la efectiva se puede obtener el rendimiento mecánico u orgánico del motor:
 
 $$\eta_m = \frac{P_e}{P_i}$$
 
@@ -158,11 +158,14 @@ La presión media indicada puede ser concebida como la suma de dos presiones med
 
 | Combustible                                      |                                                                                                                                       | Relación<br>compresión                                                                    | p.m.e.<br>bar<br>kg/cm²                                                                                                    |
 |--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Carburante para autotracción                     | normal                                                                                                                                | 6,5 ÷ 8<br>8,5 ÷ 10,5                                                                     | 7,5 ÷ 8,5<br>8,5 ÷ 11                                                                                                      |
-| Carburante especial aviación                     | motor normal                                                                                                                          | 6 ÷ 10,5<br>6 ÷ 7,5                                                                       | *8 ÷ 10<br>10 ÷ 18                                                                                                         |
+| Carburante para autotracción                     | normal   <br>super                                                                                                                             | 6,5 ÷ 8<br>8,5 ÷ 10,5                                                                     | 7,5 ÷ 8,5<br>8,5 ÷ 11                                                                                                      |
+| Carburante especial aviación                     | motor normal     <br>m. sobrealimentados                                                                                                                     | 6 ÷ 10,5<br>6 ÷ 7,5                                                                       | 8 ÷ 10<br>10 ÷ 18                                                                                                         |
+| Gas               |                                                                                            | 8 ÷ 10                                             | 6,5 ÷ 8,5                                                                                                   |
 | Gasóleo (Diesel)  Motores  4 T  Motores  Motores | Inyección directa Iny. dir. sobrealimentado Cámara de turbulencia Cám. de turb. sobrealimentada Precámara Inyección directa Precámara | $8 \div 10$ $14 \div 19$ $14 \div 19$ $15 \div 22$ $15 \div 22$ $16 \div 22$ $20 \div 22$ | $6.5 \div 8.5$<br>$6 \div 10$<br>$9 \div 12$<br>$6 \div 9$<br>$9 \div 12$<br>$6 \div 12$<br>$6.5 \div 8.5$<br>$5.5 \div 7$ |
 
 Table: Valores normales de las relaciones de compresión y presiones medias efectivas para diferentes combustibles.
+
+TODO: Arreglar tablas
 
 Los valores más altos se refieren, sólo en el caso de motores de ciclo Otto, a las cámaras de mejor rendimiento.
 
@@ -190,7 +193,7 @@ $$p_e = \frac{600 P_e}{V \cdot n} \tag{bar}$$
 
 De lo anterior resulta que la presión efectiva es una función lineal de la cilindrada, del número de revoluciones y de la p.m.e. Mientras la cilindrada es un simple valor geométrico, los otros dos factores varían en relación a las características del proyecto.
 
-#### 6. Rendimientos
+### 6. Rendimientos
 
 Consideramos oportuno resumir los diferentes conceptos de rendimiento.
 
@@ -244,16 +247,16 @@ El valor del rendimiento total está dado por:
 
 $$\eta = \frac{3\ 600\ 000}{c_s \cdot H_i} = \frac{3\ 600\ 000}{270 \times 44\ 000} = 0,303.$$
 
-#### 7. Balance térmico
+### 7. Balance térmico
 
 Después de todo lo dicho, resulta claro que sólo una parte de la energía térmica del combustible quemado en un motor es transformada en energía mecánica. La parte restante se dispersa por caminos diferentes: el agua de refrigeración, por medio del radiador, dispersa un porcentaje importante; los gases de escape que salen a alta temperatura extraen un porcentaje aún mayor; las partes mismas del motor transmiten el resto por radiación al aire ambiental. La cantidad de calor equivalente al trabajo realizado para vencer las resistencias pasivas es también absorbida a través de estas tres vías fundamentales de dispersión.
 
 
 ![Flujo térmico de un motor refrigerado por agua,](_page_11_Figure_4.png){width=50%}
 
-Cantidad de calor proveniente del gas de los espacios muertos y del escape - 2. Cantidad de calor transmitida a la mezcla aire-combustible por las paredes calientes - 3. Cantidad de calor de rozamiento transmitida a los gases de escape - 4. Cantidad de calor transmitida por los gases de escape al medio refrigerante - 5. Cantidad de calor de rozamiento transmitida al medio refrigerante - 6. Cantidad de calor irradiada por el tubo de escape - 7. Cantidad de calor irradiada por los conductos recorridos por el agua de refrigeración - 8. Cantidad de calor irradiada por las partes del motor que no están refrigeradas.
+1. Cantidad de calor proveniente del gas de los espacios muertos y del escape - 2. Cantidad de calor transmitida a la mezcla aire-combustible por las paredes calientes - 3. Cantidad de calor de rozamiento transmitida a los gases de escape - 4. Cantidad de calor transmitida por los gases de escape al medio refrigerante - 5. Cantidad de calor de rozamiento transmitida al medio refrigerante - 6. Cantidad de calor irradiada por el tubo de escape - 7. Cantidad de calor irradiada por los conductos recorridos por el agua de refrigeración - 8. Cantidad de calor irradiada por las partes del motor que no están refrigeradas.
 
-![Balance aproximado de un motor de 4 tiempos para automóvil.](_page_11_Picture_7.png){width=50%}
+![Balance aproximado de un motor de 4 tiempos para automóvil.](_page_11_Picture_7.png){width=30%}
 
 
 ![Balance térmico de un motor a carburación de 4 tiempos para automóvil.](_page_12_Figure_3.png){width=50%}
@@ -266,4 +269,4 @@ La medición de los porcentajes de calor perdido se realiza en las salas de ensa
 
 Los valores representados en las figuras son aproximados, puesto que varían según el tipo y el diseño del motor.
 
-![Balance térmico de un motor Diesel lento de 2 tiempos.](_page_13_Figure_5.png){width=50%}
+![Balance térmico de un motor Diesel lento de 2 tiempos.](_page_13_Figure_5.png){width=70%}

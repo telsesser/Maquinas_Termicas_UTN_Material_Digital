@@ -14,19 +14,18 @@ En la figura 2 se han trazado, siempre en función de la velocidad de rotación,
 
 ![Presión media indicada, presión media efectiva, presión media absorbida por las resistencias pasivas y rendimiento mecánico de un motor de encendido por chispa de 4 tiempos.](_page_1_Figure_6.png){width=50%}
 
-El rendimiento mecánico al régimen de par máximo varía de motor a motor entre 0,8 y 0,9. En general para los motores automovilísticos que a plena carga tienen  $\eta_m = 0.8$ , si el par se reduce al 30 % de su valor máximo,
-
- $\eta_m$  cambia a aproximadamente 0,55.
+El rendimiento mecánico al régimen de par máximo varía de motor a motor entre 0,8 y 0,9. En general para los motores automovilísticos que a plena carga tienen  $\eta_m = 0.8$ , si el par se reduce al 30 % de su valor máximo, $\eta_m$  cambia a aproximadamente 0,55.
 
 En la figura 3 están trazadas las curvas del consumo específico en g/kWh y del consumo por hora en kg en función del número de revoluciones por minuto de un motor ECh. El consumo específico tiene el valor mínimo a regímenes intermedios y aumenta hacia los regímenes altos y bajos. A baja velocidad priman las pérdidas del calor a través de las paredes mientras que a alta velocidad tienen más importancia las pérdidas de rozamiento; por esto, al aumentar el número de revoluciones el consumo por hora aumenta en mayor proporción que la potencia efectiva y en consecuencia aumenta el consumo específico.
 
 Si se mide el consumo a un número constante de revoluciones, haciendo variar la abertura de la mariposa (o, para los Diesel, el caudal de la bomba de inyección) y correspondientemente la carga; es decir, la p.m.e., se obtienen unas curvas interesantes, especialmente útiles en el caso de las aplicaciones automotrices.
 
+![Consumo específico y consumo por hora a plena apertura, al variar el régimen.](_page_2_Figure_9.png){width=50%}
+
+
 En la figura 4 se presenta una de estas curvas para un motor con carburador, de lo que resulta evidente que, reduciendo la apertura y en consecuencia la carga, el consumo específico aumenta de manera rápida. En efecto, con el cierre gradual de la mariposa la potencia absorbida por bombeo aumenta, la potencia absorbida por los rozamientos permanece en conjunto casi constante, mientras la potencia indicada disminuye; por lo tanto la potencia efectiva disminuye más rápidamente que el consumo por hora y por esto el consumo específico aumenta.
 
 En el párrafo VII.4 hemos dicho cómo se mide en la práctica la potencia absorbida por los rozamientos.
-
-![Consumo específico y consumo por hora a plena apertura, al variar el régimen.](_page_2_Figure_9.png){width=50%}
 
 ![Curva típica del consumo específico a velocidad constante y carga variable.](_page_3_Figure_2.png){width=50%}
 
@@ -42,7 +41,7 @@ En general, en condiciones de p.m.e. máxima, el consumo es máximo a regímenes
 
 El aumento del consumo específico al disminuir la p.m.e., a igualdad de régimen de rotación, deriva principalmente de pérdidas mecánicas que se hacen porcentualmente cada vez más importantes en comparación con las p.m.e. que se van haciendo cada vez más reducidas (las pérdidas mecánicas, como hemos visto, son prácticamente independientes de la carga del motor). Concurren además las progresivamente crecientes pérdidas por «estrangulación» debidas al sistema mismo de regulación de la carga del motor.
 
-En la figura 7 se reproducen los diagramas de las presiones en el cilindro en condiciones de plena carga y de 1/4 de carga para poner en evidencia las variaciones de los valores de las presiones durante la carrera de admisión y por lo tanto también las del trabajo de bombeo.
+En la figura 7 se reproducen los diagramas de las presiones en el cilindro en condiciones de plena carga y de 1/4 de carga para poner en evidencia las variaciones de los valores de las presiones durante la carrera de admisión y por lo tanto también las del **trabajo de bombeo**.
 
 Sobre el consumo de combustible tiene notable influencia la relación de compresión: en efecto, como ya hemos visto, aumentando la relación de compresión aumenta el rendimiento térmico ideal y por lo tanto disminuye el consumo específico. En la figura 8 se ha dibujado, en función de la relación de compresión, la curva del consumo específico considerado proporcional al rendimiento térmico ideal, suponiendo igual a 1 el consumo específico para la relación de compresión 4.
 
@@ -50,7 +49,7 @@ Sobre el consumo de combustible tiene notable influencia la relación de compres
 
 ![Curvas de los consumos específicos obtenidas en el banco de pruebas en función de la p.m.e. en un motor de ciclo Otto.](_page_5_Figure_2.png){width=50%}
 
-# 7. El consumo específico de los motores de encendido por compresión
+#### 7. El consumo específico de los motores de encendido por compresión
 
 Los motores Diesel tienen consumos específicos más bajos que los motores de ciclo Otto en toda la gama de giros y de cargas. Especialmente buenos son los motores a inyección directa porque son menores las pérdidas de calor debido a la forma más compacta de la cámara de combustión. Como hemos constatado en el estudio de los ciclos, el rendimiento termodinámico del ciclo Diesel, a igualdad de la relación de compresión, es inferior al del ciclo Otto, pero como en la práctica la relación de compresión del ciclo Diesel es generalmente del orden del doble que la del ciclo Otto, el rendimiento del ciclo Diesel es superior y por lo tanto el consumo es inferior.
 
@@ -64,15 +63,15 @@ El sistema de alimentación por inyección permite una dosificación más precis
 
 La curva de los consumos en las condiciones de p.m.e. máxima es por lo tanto más llana que la de los motores de ciclo Otto, es decir, para los regímenes altos y bajos el consumo varía menos con respecto al valor mínimo.
 
-En la figura 9 se representa el plano acotado de los consumos para un motor de ciclo Diesel de 4 tiempos a inyección directa. De la comparación entre las figuras 9 y 10 puede verse que la curva del consumo mínimo no corresponde a la cuva de p.m.e. máxima, sino que coincide con valores de la p.m.e. bastante inferiores. La explicación está dada por las siguientes consideraciones.
+En la figura 9 se representa el **plano acotado de los consumos para un motor de ciclo Diesel** de 4 tiempos a inyección directa. De la comparación entre las figuras 9 y 10 puede verse que la curva del consumo mínimo no corresponde a la cuva de p.m.e. máxima, sino que coincide con valores de la p.m.e. bastante inferiores. La explicación está dada por las siguientes consideraciones.
 
 Para que la combustión sea lo más completa posible, el motor Diesel tiene que funcionar con mucho exceso de aire. Por otra parte para obtener el máximo de la p.m.e. correspondiente a un régimen cualquiera, hay que introducir en el cilindro la máxima cantidad de combustible compatible con una combustión suficientemente regular (es decir, con un nivel aceptable de humos y con temperatura de gases de escape no excesiva). En estas condiciones puesto que no cambia el llenado de los cilindros, ya que se está operando al mismo régimen, el exceso de aire ya no es tal que permita quemar completamente todo el combustible introducido. El consumo específico correspondiente a la p.m.e. a plena carga resulta, en consecuencia, influenciado negativamente por la combustión incompleta del combustible introducido. Al disminuir la carga, el consumo específico, aunque influenciado por las pérdidas mecánicas que se hacen proporcionalmente mayores, tiende a mejorar porque mejora la combustión como consecuencia del aumento del exceso de aire con respecto al combustible introducido. Al pasar la p.m.e. del valor máximo a aproximadamente 3/4, el consumo específico se reduce apreciablemente hasta llegar al valor mínimo; disminuyendo aún más la p.m.e. el aumento del exceso de aire prácticamente ya no tiene más efecto, mientras aumenta notablemente la importancia de las pérdidas mecánicas, de manera que el consumo específico aumenta de nuevo, manteniéndolas sin embargo siempre inferior al correspondiente de un motor de ciclo Otto.
 
 ![Plano acotado («curvas de concha») de los consumos obtenidos experimentalmente para un motor Diesel a inyección directa.](_page_7_Figure_5.png){width=50%}
 
-![Curvas de los consumos específicos obtenidas en el banco de pruebas en función de la p.m.e. en un motor de ciclo Diesel.](_page_8_Figure_2.png){width=50%}
+![Curvas de los consumos específicos obtenidas en el banco de pruebas en función de la p.m.e. en un motor de ciclo Diesel.](_page_8_Figure_2.png){width=40%}
 
-Como es sabido, un defecto común en el funcionamiento a plena carga es el humo en el escape, cuya causa principal es, como hemos dicho, la combustión incompleta del combustible introducido. El humo en el escape se mide generalmente en el banco de ensayos mediante aparatos especiales. Para cada motor, fijado el valor de la cantidad de humos admitida, se determina para todo el rango de revoluciones la introducción máxima de combustible y la correspondiente p.m.e., para ese nivel de humos en particular. La curva de la p.m.e. que resulta, comúnmente llamada curva al límite de humo, se traza sobre el plano acotado de los consumos (ver fig. 9). La curva de la p.m.e. máxima a la cual se tara el motor no debe superar en ningún punto la curva al límite de humo.
+Como es sabido, un defecto común en el funcionamiento a plena carga es el humo en el escape, cuya causa principal es, como hemos dicho, la combustión incompleta del combustible introducido. El humo en el escape se mide generalmente en el banco de ensayos mediante aparatos especiales. Para cada motor, fijado el valor de la cantidad de humos admitida, se determina para todo el rango de revoluciones la introducción máxima de combustible y la correspondiente p.m.e., para ese nivel de humos en particular. La curva de la p.m.e. que resulta, comúnmente llamada **curva al límite de humo**, se traza sobre el plano acotado de los consumos (ver fig. 9). La curva de la p.m.e. máxima a la cual se tara el motor no debe superar en ningún punto la curva al límite de humo.
 
 #### 8. Relación entre la potencia y las condiciones atmósfericas
 
@@ -80,15 +79,17 @@ Algunos parámetros que varían en función de la altura de funcionamiento y de 
 
 Estudios y experiencias realizadas en motores de aviación en ambientes del aire, han confirmado que la potencia es directamente proporcional a la presión barométrica y a la raíz cuadrada de la temperatura absoluta. A esta conclusión puede también llegarse mediante el cálculo.
 
-Con el fin de hacer comparables los datos de potencia obtenidas de los motores aunque se ensayen en diferentes condiciones de temperatura y presión ambiental, se ha establecido al referirlos a una atmósfera o aire patrón («standard»), es decir, a la presión de 1,013 bar (760 mm de mercurio) a la temperatura de 288 °K (15 °C). La fórmula adoptada es la siguiente:
+Con el fin de hacer comparables los datos de potencia obtenidas de los motores aunque se ensayen en diferentes condiciones de temperatura y presión ambiental, se ha establecido al referirlos a una **atmósfera o aire patrón**(«standard»), es decir, a la presión de 1,013 bar (760 mm de mercurio) a la temperatura de 288 °K (15 °C). La fórmula adoptada es la siguiente:
 
 $$P_0 = P_e \frac{p_0}{p} \sqrt{\frac{T}{T_0}}$$
 
-donde:  $P_0$  = potencia en atmósfera standard en kW (o en Cv);
+donde:  
+
+ $P_0$  = potencia en atmósfera standard en kW (o en Cv);
 
  $P_e$  = potencia obtenida al freno en kW (o en Cv);
 
-p = presión atmósferica ambiente en mm de mercurio (o en bar);
+ $p$ = presión atmósferica ambiente en mm de mercurio (o en bar);
 
  $p_0$  = presión normal de 760 mm de mercurio (1,013 bar);
 
@@ -106,8 +107,7 @@ EJEMPLO. — Calcular la pérdida porcentual de potencia, referida a la atmósfe
 
 De la tabla XI, para una altura de 2758, se tiene:
 
-$$T = 270 \,\mathrm{°K}$$
- ;  $p = 723 \,\mathrm{mbar}$ .
+$$T = 270 \,\mathrm{°K};  p = 723 \,\mathrm{mbar}$$
 
 Aplicando la fórmula
 
@@ -152,14 +152,14 @@ Cuando es necesario solucionar la pérdida de potencia causada por la disminuci�
 
 ![Influencia de la altura en el factor de potencia.](_page_11_Figure_2.png){width=50%}
 
-La presencia del compresor es una característica de los motores sobrealimentados, es decir, alimentados con una carga de aire o mezcla superior a la que correspondería a la cilindrada (ver capítulo XXII), mientras en el caso de los motores que funcionan a alturas importantes se trata de una alimentación con aire que de la condición de baja presión es llevado por el compresor a una densidad parecida o igual a la del nivel del mar. Para los motores de aviación lo ideal sería que el compresor proporcionara una presión constante al variar la altura de funcionamiento, teniendo también en cuenta la variación de la temperatura de modo que la masa de la carga fuera constante. Por esto el compresor centrífugo de los motores de aviación de gran potencia estaba provisto de un verdadero cambio de marchas, generalmente de dos velocidades, que se conectaban automáticamente según la altura.
+La presencia del compresor es una característica de los **motores sobrealimentados**, es decir, alimentados con una carga de aire o mezcla superior a la que correspondería a la cilindrada (ver capítulo XXII), mientras en el caso de los motores que funcionan a alturas importantes se trata de una alimentación con aire que de la condición de baja presión es llevado por el compresor a una densidad parecida o igual a la del nivel del mar. Para los motores de aviación lo ideal sería que el compresor proporcionara una presión constante al variar la altura de funcionamiento, teniendo también en cuenta la variación de la temperatura de modo que la masa de la carga fuera constante. Por esto el compresor centrífugo de los motores de aviación de gran potencia estaba provisto de un verdadero cambio de marchas, generalmente de dos velocidades, que se conectaban automáticamente según la altura.
 
 #### 9. Velocidad media del pistón
 
 La velocidad media del pistón está dada por:
 
-$$u = \frac{C \cdot n}{3000}$$
- m/s.
+$$u = \frac{C \cdot n}{3000} m/s$$
+ 
 
 donde C es la carrera expresada en cm y n es el número de revoluciones por minuto.
 
@@ -167,7 +167,7 @@ Un parámetro interesante es el grado de solicitación de los órganos principal
 
 Pero la importancia del parámetro u se manifiesta en muchos otros problemas relativos a la dinámica del motor; damos aquí dos ejemplos significativos:
 
-a) Fuerzas de inercia. — Las fuerzas de inercia, giratorias y alternativas, están caracterizadas por el factor  $m \cdot \omega^2 \cdot r$ . Como podemos considerar la masa m proporcional al cubo del diámetro D del pistón y por lo tanto proporcional a la cilindrada V, puede escribirse la expresión de las fuerzas de inercia en la forma cualitativa:
+a) **Fuerzas de inercia**. — Las fuerzas de inercia, giratorias y alternativas, están caracterizadas por el factor  $m \cdot \omega^2 \cdot r$ . Como podemos considerar la masa m proporcional al cubo del diámetro D del pistón y por lo tanto proporcional a la cilindrada V, puede escribirse la expresión de las fuerzas de inercia en la forma cualitativa:
 
 $$F = K \cdot V \cdot \omega^2 \cdot r = K \cdot V \cdot \omega^2 \cdot \frac{C}{2} = K' \cdot V \cdot \omega^2 \cdot \frac{u}{n},$$
 
@@ -177,7 +177,7 @@ Se concluye que, entre dos motores de igual cilindrada y que funcionan a igual n
 
 Se ve también, al comparar dos motores de dimensiones diferentes, que las fuerzas de inercia aumentan en el motor más grande no sólo por efecto del aumento de las masas en proporción directa con el aumento de la cilindrada, sino también por efecto del aumento que asume la velocidad del pistón si no se varía el valor de la razón  $\mu = C/D$ . De aquí que, aumentando las dimensiones, necesariamente debe reducirse la velocidad de rotación.
 
-b) Calor extraído por la refrigeración. — Como índice de la refrigeración de un motor podemos asumir la razón q entre la cantidad de calor extraída con la refrigeración y la desarrollada, para cada cilindro.
+b) **Calor extraído por la refrigeración**. — Como índice de la refrigeración de un motor podemos asumir la razón q entre la cantidad de calor extraída con la refrigeración y la desarrollada, para cada cilindro.
 
 Como la cantidad de calor extraída es proporcional al área de la superficie de transmisión, y por lo tanto al cuadrado del diámetro, mientras que la desarrollada es proporcional a la cilindrada unitaria, y en consecuencia, para un valor establecido de la relación  $\mu = \frac{C}{D}$ , al cubo del diámetro, la razón que resulta inversamente proporcional al diámetro D del cilindro. Además, dado que la cantidad de calor desarrollado es con buena aproximación proporcional al número de los ciclos en la unidad de tiempo, y por lo tanto igual al número de revoluciones por minuto del motor, mientras la cantidad de calor extraída es prácticamente independiente de las revoluciones, la razón q resulta también inversamente proporcional al número de vueltas n del motor. Se tiene así:
 
@@ -299,7 +299,7 @@ El régimen mínimo depende sobre todo del número de cilindros, del momento de 
 
 Por las razones recién enumeradas y por otras que mencionaremos en lo que sigue, el motor debe funcionar a un cierto número de revoluciones tanto más bajo cuanto mayor es su cilindrada unitaria, cuanto mayor deba ser su grado de seguridad y de duración y cuanto más silencioso haya de ser su funcionamiento.
 
-### 13. Número y disposición de los cilindros
+#### 13. Número y disposición de los cilindros
 
 El número de cilindros se escoge en base a varias consideraciones relacionadas con las características de instalación y el tipo de prestaciones requeridas del motor en los límites impuestos por el costo de fabricación preestablecido.
 
@@ -338,7 +338,7 @@ Muy relacionada con el problema del número de cilindros está la disposición d
 - Cilindros en estrella (simple o varias) (motor radial) (m),
 - Cilindros en haz, paralelos al eje motor (n).
 
-## 14. Estabilidad de funcionamiento del motor
+#### 14. Estabilidad de funcionamiento del motor
 
 Consideremos un motor en régimen, es decir, en condiciones de funcionamiento tales que la velocidad de rotación se mantenga constante y toda la potencia disponible en el cigüeñal sea absorbida por un momento resistente constante. Si, por cualquier razón, el momento resistente, que llamaremos  $M_r$ , disminuye asumiendo el valor  $M'_r$ , de improviso queda disponible en el cigüeñal un momento  $M_d = M_r - M'_r$ ; y como el sistema tiene que estar siempre en equilibrio, este momento imprime una aceleración al conjunto motor - máquina impulsada, venciendo la inercia según la conocida relación:
 
@@ -366,9 +366,10 @@ En la figura 13 se han trazado las curvas características típicas de un motor 
 
 ![Curvas características típicas de los motores de autovehículos.](_page_20_Figure_9.png){width=50%}
 
-- 1) Motor utilizado a la máxima potencia: punto A. Si un aumento del momento resistente lo hace disminuir de régimen, el par motor aumenta a fin de satisfacer las nuevas demandas; si el motor acelera por disminución del momento resistente, el par motor se reduce también. El motor es por lo tanto estable y autorregulable.
-- 2) Motor utilizado a media potencia: punto B. La curva del par tiene en esta zona pequeñas variaciones, por lo que el estado de equilibrio se alcanza con fuertes variaciones de velocidad. Éste es el caso de los motores Diesel en general, cuyo par motor varía poco dentro de todo el rango de utilización.
+- 1) **Motor utilizado a la máxima potencia**: punto A. Si un aumento del momento resistente lo hace disminuir de régimen, el par motor aumenta a fin de satisfacer las nuevas demandas; si el motor acelera por disminución del momento resistente, el par motor se reduce también. El motor es por lo tanto estable y autorregulable.
+
+- 2) **Motor utilizado a media potencia**: punto B. La curva del par tiene en esta zona pequeñas variaciones, por lo que el estado de equilibrio se alcanza con fuertes variaciones de velocidad. Éste es el caso de los motores Diesel en general, cuyo par motor varía poco dentro de todo el rango de utilización.
 
 Por lo tanto el motor es inestable; el equilibrio sólo puede alcanzarse con diferencias de velocidad que generalmente no son aceptables.
 
-- 3) Motor utilizado a baja potencia: punto C. — Ante cada variación del par resistente el motor reacciona con variaciones del par motor en sentido opuesto al requerido. El momento es inestable y no autorregulable porque, si el par resistente disminuye, sólo puede encontrarse el estado de equilibrio a un régimen muy lejano, es decir, a un número de revoluciones demasiado alto; al contrario, si el par resistente aumenta, el motor se detiene.
+- 3) **Motor utilizado a baja potencia**: punto C. — Ante cada variación del par resistente el motor reacciona con variaciones del par motor en sentido opuesto al requerido. El momento es inestable y no autorregulable porque, si el par resistente disminuye, sólo puede encontrarse el estado de equilibrio a un régimen muy lejano, es decir, a un número de revoluciones demasiado alto; al contrario, si el par resistente aumenta, el motor se detiene.
