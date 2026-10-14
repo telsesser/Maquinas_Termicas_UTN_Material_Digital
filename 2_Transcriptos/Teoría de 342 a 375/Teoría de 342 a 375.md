@@ -1,6 +1,6 @@
 # LA COMBUSTIÓN EN LOS MOTORES DE ENCENDIDO POR CHISPA
 
-#### 1. Combustión normal
+### 1. Combustión normal
 
 Para explicar cómo se desarrolla la combustión se han elaborado varias teorías, la mayor parte de ellas fundadas en datos experimentales. Ellas difieren entre sí por ciertos aspectos, pero en general concuerdan al distinguir dos fases principales: una de preparación o precombustión y una de combustión propiamente tal. Durante la fase de preparación la chispa proporcionada por la bujía genera uan reacción local que da lugar a la formación de algunos reaccionantes intermedios. Éstos a su vez crean las condiciones para el inicio y la propagación de la combustión. Los productos intermedios y sus propiedades son vagamente conocidos y no es aquí el caso de tomarlos en consideración.
 
@@ -10,7 +10,7 @@ Un proceso de combustión que se desarrolle de la manera descrita se define como
 
 <sup>(</sup>¹) En condiciones ideales de uniformidad de la mezcla y de ausencia absoluta de turbulencia, el frente de llama tendría una superficie perfectamente esférica. En la combustión normal la irregularidad de la superficie del frente de llama depende de la turbulencia de la mezcla que se quema, de su grado de homogeneidad y de la forma de la cámara de combustión.
 
-# 2. Velocidad de propagación de la llama
+### 2. Velocidad de propagación de la llama
 
 En una mezcla homogénea el frente de llama se desplaza en la cámara de combustión con una velocidad que depende de la velocidad de combustión y de otra velocidad que llamaremos de traslación.
 
@@ -20,7 +20,7 @@ La velocidad de traslación se refiere en cambio al movimiento físico del frent
 
 Para hacer más claro el fenómeno nos referimos a la figura 1. Dividamos la cámara de combustión en tres partes A-B-C e imaginemos que la llama avanza de izquierda a derecha. Si la masa de mezcla A está completamente quemada, se expande y comprime las partes de mezcla B y C a volúmenes más pequeños y de mayor densidad. El frente de llama ha avanzado en la zona A con la velocidad de combustión, y ha sido ulteriormente desplazado como consecuencia de la traslación. Cuando el frente de llama avanza en la zona B, ésta se expande a su vez comprimiendo ulteriormente el gas C a un espacio aún menor, comprimiendo también en cierta medida los gases de la zona A. Si se presupone que el número de las divisiones es infinito, el resultado es el de una llama que avanza gradualmente no sólo porque se completa la reacción química, sino también por efecto de la traslación debida a la expansión de los gases.
 
-![Traslación del frente de llama debida a la expansión de los gases.](_page_2_Picture_8.png){width=50%}
+![Traslación del frente de llama debida a la expansión de los gases.](_page_2_Picture_8.png){width=40%}
 
 El análisis fotográfico del fenómeno (conseguido con 15 000 ÷ 20 000 fotogramas por segundo a través de una ventanilla de cuarzo) indica que al atravesar la cámara de combustión la llama avanza inicialmente a velocidad relativamente baja. En efecto, al comienzo, la masa de carga quemada es pequeña y la propagación se debe sobre todo a la reacción química. Por otra parte los electrodos de la bujía están casi al ras de la pared de la superficie de la cámara y por lo tanto la chispa salta en un estrato de gas adherido a la pared donde la turbulencia es reducida, por lo que la reacción es relativamente lenta. Apenas la llama alcanza una zona de mayor turbulencia y afecta a una mayor masa de mezcla, avanza más rápidamente con velocidad más bien constante. Es la que normalmente llamamos velocidad de la llama. Hacia el final del recorrido el volumen de los gases por quemar es pequeño, el efecto de traslación resulta despreciable así como también el de la reacción química como consecuencia de la disminución de la turbulencia, por lo que la velocidad de la llama disminuye.
 
@@ -30,7 +30,7 @@ En efecto, la combustión no se produce instantáneamente en el P.M.S. como est�
 
 Los factores de los cuales depende el tiempo necesario para la combustión son: la velocidad de propagación de la llama y la longitud del recorrido que el frente de llama debe hacer, recorrido que depende de las dimensiones y de la forma de la cámara de combustión y de la posición de la bujía.
 
-# 3. Factores que influyen en la combustión
+### 3. Factores que influyen en la combustión
 
 La velocidad de la llama influye en la manera de aumentar de la presión, es decir, en el gradiente de presión que, como veremos, es importante a efectos del funcionamiento del motor. La velocidad de la llama interviene también como factor importante de combustiones anormales. Por lo tanto conviene analizar de qué parámetros depende.
 
@@ -54,7 +54,7 @@ Presión. — Si mayor es la presión en el instante en el que salta la chispa, 
 
 Humedad. — La velocidad de la llama disminuye al aumentar la humedad. Cantidad de gases residuales. — La presencia de los gases residuales hace evidentemente disminuir la velocidad de combustión.
 
-# 4. Variación de la presión durante la combustión
+### 4. Variación de la presión durante la combustión
 
 La velocidad de aumento de la presión, o gradiente de presión, durante la combustión ejerce una notable influencia sobre la presión máxima y sobre la progresividad con la que la fuerza desarrollada por el fluido es transmitida al pistón.
 
@@ -68,7 +68,7 @@ En la figura 3 se indican las curvas de la presión para tres valores diferentes
 
 El investigador inglés H. Ricardo ha descubierto que un gradiente de presión de unos 2 bar por grado proporciona la potencia máxima. Para conseguir gradientes más elevados, siempre dentro de los límites de una combustión normal, se necesita una fuerte turbulencia, la cual sin embargo cuando es excesiva aumenta las pérdidas de calor y causa una disminución de la potencia.
 
-# 5. Combustiones anormales
+### 5. Combustiones anormales
 
 Como ya hemos dicho, la combustión es normal cuando comienza en el punto y en el instante en que salta la chispa, y avanza gradualmente desde ese punto hasta alcanzar todas las demás zonas de la cámara. Es anormal cuando, una vez saltada la chispa, no avanza de la manera regular antes descrita, o bien cuando no es provocada directamente por la chispa, sino que obedece a otras causas.
 
@@ -86,7 +86,7 @@ El autoencendido de toda la carga es un caso muy raro. Es frecuente en cambio el
 ![Combustiones con diferentes gradientes de presión.](_page_6_Figure_10.png){width=50%}
 
 
-## 6. Encendidos superficiales
+### 6. Encendidos superficiales
 
 Si el motor funciona en condiciones tales que sobre la pared interior de la cámara de combustión ciertas zonas se sobrecalientan, como puede suceder en las válvulas de escape o en los electrodos de la bujía, o bien si se forman partículas incandescentes de carbón, es posible que estas partes calientes enciendan la mezcla que las rodea.
 
@@ -98,7 +98,7 @@ El preencendido tiende a aumentar la temperatura y la presión en la cámara de 
 
 Cuando se produce, puede suceder fácilmente que la presión máxima del ciclo se alcance antes que el pistón llegue al P.M.S. En tal caso la presión del gas se opone al movimiento del pistón en la última parte de la carrera de compresión, la potencia se reduce y el funcionamiento del motor se hace áspero e irregular. El preencendido ha de ser evitado porque puede ser muy nocivo para los órganos del motor, especialmente para las partes sometidas a temperaturas altas, como los pistones, las válvulas de escape y las bujías.
 
-#### 7. La detonación
+### 7. La detonación
 
 Como ya se ha dicho, durante el trayecto del frente de llama en la cámara de combustión la parte de carga más alejada de la chispa está sometida a un aumento de presión, de temperatura y de densidad hasta que se alcanzan las condiciones críticas para el autoencendido y para la combustión casi instantánea, es decir, para detonar.
 
@@ -128,7 +128,7 @@ Conviene recordar aquí que desde el instante en el que se alcanzan las condicio
 
 La detonación en el motor ECh se produce por lo tanto hacia el final de la compresión y puede entonces evitarse fácilmente si el retraso del encendido es lo suficientemente grande.
 
-## 8. Variables que influyen en la detonación
+### 8. Variables que influyen en la detonación
 
 En el capítulo referente a los combustibles se habló de la importancia de sus características antidetonantes. Nos referiremos aquí a las variables que influyen en la detonación considerando como constante el valor del N.O. del combustible.
 
@@ -151,7 +151,7 @@ Además se reduce el peligro de detonación si se aumenta la velocidad de la lla
 
 De entre todos los factores que limitan la potencia y el rendimiento en los motores ECh, la detonación es el más importante; ella pone un límite a la máxima relación de compresión para cada combustible determinado y depende esencialmente de las características de este último.
 
-## 9. Avance del encendido
+### 9. Avance del encendido
 
 Como sabemos, la chispa debe saltar antes del P.M.S. como consecuencia del hecho de que la combustión dura un cierto tiempo. El ángulo que la manivela forma con el eje del cilindro en el instante en que salta la chispa, es el ángulo de avance. Generalmente la máxima potencia se obtiene con el ángulo de avance que permite alcanzar en el P.M.S. aproximadamente la mitad del aumento de presión debido a la combustión. Normalmente en esta condición el pico de máxima presión se verifica entre 15° y 25° después del P.M.S.
 
@@ -177,7 +177,7 @@ El valor máximo del avance total sobre la curva de potencia máxima alcanza los
 
 Recordemos finalmente que en los motores de aviación es necesario aumentar el avance al aumentar la altura de vuelo porque disminuyen la velocidad de la llama y la presión de alimentación.
 
-## 10. La cámara de combustión
+### 10. La cámara de combustión
 
 La forma de la cámara de combustión influye en el proceso de combustión y por lo tanto en el rendimiento térmico.
 
@@ -220,7 +220,7 @@ Cuando el motor es alimentado por un carburador, la mezcla se forma por pulveriz
 
 Cuando en cambio el combustible es introducido por inyección en el múltiple con el inyector cercano a la válvula de admisión o incluso aplicado directamente a la cámara de combustión, la carga generalmente no es homogénea, sino que está formada por estratos que tienen diferente relación airegasolina. Si se consigue que la chispa esté rodeada por un estrato de mezcla rica, se puede reducir el consumo haciendo funcionar el motor con una carga medianamente pobre. Con este fin se han ideado las llamadas cámaras de carga estratificada, en las cuales la bujía está dispuesta de modo que la chispa salte en la zona en la cual la relación aire-combustible es siempre tal que se asegure el encendido. Son típicos los motores de estratificación separada, es decir, con cámara provista de una pequeña precámara alimentada con mezcla rica a través de una válvula propia (fig. 10). La reducción del consumo se consigue sin embargo mediante el sacrificio del rendimiento y por lo tanto de la potencia.
 
-# 11. Principales cámaras de combustión
+### 11. Principales cámaras de combustión
 
 En la figura 9 se representan esquemáticamente las principales cámaras de combustión divididas en dos categorías que se distinguen inmediatamente por la disposición de las válvulas, laterales o en la cabeza del cilindro.
 
@@ -283,7 +283,7 @@ Por lo demás nuevos avances, realizados con el control electrónico computeriza
 
 # CAPÍTULO XVII CARBURACIÓN E INYECCIÓN
 
-# XVII.1. La alimentación por depresión y por inyección
+### 1. La alimentación por depresión y por inyección
 
 La alimentación de los motores ECh se realiza por medio de un conjunto que comprende, además del depósito del combustible, las siguientes partes:
 
@@ -315,7 +315,7 @@ Puesto que la inyección multichorro es la forma de inyección más difundida en
 
 Comenzaremos describiendo el carburador tradicional que es usado en la mayor parte de los motores ECh y que tiene la ventaja de ser bastante sencillo y de bajo costo. A continuación daremos información sobre los aparatos de inyección que han adquirido mayor importancia y difusión especialmente desde que la aplicación de la electrónica se ha extendido al automóvil. Efectivamente, el éxito de la inyección es, como veremos, consecuencia de la introducción de la electrónica para el control de la alimentación como medio para reducir el consumo de combustible y las emisiones.
 
-## XVII.2. Circuito de aire y combustible - Filtros, bombas
+### 2. Circuito de aire y combustible - Filtros, bombas
 
 Antes de avanzar nos parece útil aludir a los componentes del circuito del aire y del combustible que, aunque no participan en la regulación del motor, son indispensables para su correcto funcionamiento y para su durabilidad, es decir, los *filtros* del aire y del combustible y las *bombas de circulación* del combustible.
 
@@ -353,7 +353,7 @@ Las **bombas eléctricas** tienen la ventaja de poder ser puestas en movimiento 
 
 Para eliminar las partículas extrañas que podrían encontrarse en la gasolina o en el circuito y ser causa de obturación de los pequeños agujeros del carburador o de los inyectores, se insertan en el circuito pequeños filtros de papel en recipientes de plástico generalmente transparentes. Antes se usaban filtros de vaso que permitían controlar visualmente la presencia de partículas extrañas (fig. 17).
 
-## XVII.3. El carburador
+### 3. El carburador
 
 El carburador debe cumplir las siguientes funciones:
 
@@ -393,7 +393,7 @@ Un carburador elemental como el descrito no podría satisfacer las exigencias de
 
 Ya hemos aludido a la sensibilidad del carburador ante las acciones dinámicas; en su momento añadiremos algunas otras observaciones para el caso especial de los motores de aviación.
 
-# XVII.4. Regulación automática de la razón de mezcla
+### 4. Regulación automática de la razón de mezcla
 
 El caudal Q y la velocidad de flujo W están relacionadas con la diferencia de presiones y con la densidad  $\gamma$  según la expresión:
 
@@ -409,7 +409,7 @@ Por lo tanto si se tara el carburador para la razón de mezcla adecuada para el 
 
 Para evitar este inconveniente se han ideado diferentes dispositivos, en base a los cuales se distinguen los tres tipos más característicos de carburadores calibrados:
 
-## 1) Carburador con calibre compensador (Zenith)
+#### 1) Carburador con calibre compensador (Zenith)
 
 En la figura 20 se ilustra el funcionamiento de este carburador; la acción del calibre principal P regulado para la dosificación adecuada para el máximo número de revoluciones, es corregida mediante un calibre secundario y compensador C que enriquece la mezcla a regímenes bajos.
 
@@ -424,11 +424,11 @@ El calibre compensador C no es afectado por los efectos de la depresión que exi
 
 En la figura 21 la curva b representa la ley de variación de la razón aire/combustible (expresada en %) debida al calibre principal, la c la debida al compensador y la a la de la razón resultante.
 
-# 2) Carburador de aire suplementario (Krebs-Pallas)
+#### 2) Carburador de aire suplementario (Krebs-Pallas)
 
 La mezcla, dosificada para los regímenes bajos, es empobrecida a los regímenes altos mediante aire aspirado por una lumbrera colocada después del difusor y mandada automáticamente por la misma depresión producida por la aspiración (Krebs). El sistema da lugar a inconvenientes por el movimiento de algunos órganos (resortes, válvulas, etc.) y ha sido útilmente perfeccionado en la solución Pallas con la adición de un calibre de aire corrector además del calibre de aire principal normal (fig. 22).
 
-# 3) Carburador de aire antagonista (Solex-Weber)
+#### 3) Carburador de aire antagonista (Solex-Weber)
 
 La mezcla, también aquí dosificada para los regímenes bajos, es empobrecida para los altos regímenes mediante aire que, aspirado por la misma depresión, actúa antagónicamente al combustible (figs. 23, 24). Este aire, con un dispositivo especial, puede ser finamente subdividido para formar con el carburante una emulsión que mejora la formación de la mezcla. El dispositivo, llamado emulsionador, es corrientemente usado en los carburadores para autovehículos y para aviación.
 
@@ -451,7 +451,7 @@ Difiere de los normales por la presencia de dos o tres tubos venturi montados en
 
 3) mayor homogeneidad de la mezcla, y por lo tanto mejor distribución de ésta entre los cilindros.
 
-# XVII.5. Dispositivos del carburador para el arranque, el régimen mínimo y la aceleración
+### 5. Dispositivos del carburador para el arranque, el régimen mínimo y la aceleración
 
 Para el arranque en frío es necesario que la mezcla sea muy rica para compensar las condensaciones que con facilidad se producen sobre las paredes frías de los conductos y de los cilindros.
 
